@@ -1,0 +1,14 @@
+</main>
+
+    <footer>
+
+        <hr>
+
+        <p>&copy; 2026  Said Hashem Hussaini Amina El Guenuni. All rights reserved.</p>
+
+    </footer>
+
+</body>
+
+</html>
+

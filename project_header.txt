@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <title>Hood College Events</title>
+
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" type="text/css" href="style.css?v=5.0">
+
+</head>
+
+<body>
+
+    <nav>
+
+      <a href="project_home.php">Home</a> |
+
+      <a href="show_registrations.php">Show students </a> |
+
+      <a href="show_events.php">Show events</a> |
+
+      <a href="add_event.php">Add Event</a> |
+
+      <a href="register_student.php">Register Student</a> |
+
+      <a href="search_events.php">Search Events</a>
+
+    </nav>
+
+    <main>
