@@ -1,7 +1,7 @@
 # 🎓 Campus Event Management System
 **Database Management Systems Project**
 
-> *A unified, Hood-College-exclusive platform to discover, register for, and promote campus events — all in one place.*
+A unified platform to discover, register for, and promote campus events. 
 
 ---
 
@@ -22,7 +22,6 @@ The **Campus Event Management System** solves these problems by providing:
 
 - ✅ A **single, unified** hub for all Hood College events
 - ✅ **Category-based filtering** (Academic, Social, Sports, Career, Cultural, Community Service, etc.)
-- ✅ A relational database designed **exclusively for Hood College**
 - ✅ Clean, organized data to support student organizations long-term
 
 ---
@@ -78,13 +77,6 @@ Sponsors(EventID, SponsorID, Contribution_amount)
 - An **Event** belongs to exactly one **Category**
 - A **Staff** member can advise a club and optionally coordinate events
 - **Sponsors** can fund multiple events with tracked contribution amounts
-
-### Key Design Decisions
-
-- `Registers(StudentID, EventID)` — composite primary key prevents duplicate registrations
-- `Sponsors.Contribution_amount` — `NOT NULL` because a row only exists when a sponsorship has occurred
-- `StaffID` is nullable in both `OrganizerClub` and `Event` (advisor/coordinator is optional)
-- `ON DELETE CASCADE` on registrations and sponsorships; `ON DELETE RESTRICT` on categories and organizers to protect event integrity
 
 ---
 
