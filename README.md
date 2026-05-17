@@ -5,14 +5,14 @@ A unified platform to discover, register for, and promote campus events.
 
 ---
 
-## 👥 Team Members
+## Team Members
 
 - Amina El Guenuni
 - Said Hashem Hussaini 
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Hood College currently manages campus events across **two separate platforms**: Navigate 360 and Viva Engage (Microsoft). This fragmentation forces students to check multiple sites and offers no unified filtering by category, club, or event type. Management reports are also incomplete, making it harder for student leaders to make informed decisions.
 
@@ -24,13 +24,13 @@ The **Campus Event Management System** solves these problems by providing:
 
 ---
 
-## 🌐 Live Application
+## Live Application
 
 🔗 **[https://pluto2.hood.edu/~team01/project_home.php](https://pluto2.hood.edu/~team01/project_home.php)**
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Layer | Technology |
 |---|---|
@@ -40,7 +40,7 @@ The **Campus Event Management System** solves these problems by providing:
 
 ---
 
-## 📄 Application Pages
+## Application Pages
 
 | Page | Description |
 |---|---|
@@ -53,7 +53,7 @@ The **Campus Event Management System** solves these problems by providing:
 
 ---
 
-## 🗄️ Database Schema
+## Database Schema
 
 ### Entities & Tables
 
@@ -78,7 +78,7 @@ Sponsors(EventID, SponsorID, Contribution_amount)
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Developed as part of the **Database Management Systems** course at **Hood College**.  
 Special thanks to Hood College faculty
