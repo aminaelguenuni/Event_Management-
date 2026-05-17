@@ -7,10 +7,8 @@ A unified platform to discover, register for, and promote campus events.
 
 ## 👥 Team Members
 
-| Name | 
-|---|
-| Amina El Guenuni | 
-| Said Hashem Hussaini | 
+- Amina El Guenuni
+- Said Hashem Hussaini 
 
 ---
 
